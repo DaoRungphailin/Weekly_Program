@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main()
+int main() 
 {
-    int a[3];
+    int a[3]; //เรียงเลข 3 ตัว
     scanf("%d %d %d", &a[0], &a[1], &a[2]);
     for (int i = 0; i <= 2; i++)
     {

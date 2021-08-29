@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int a[3], max, mid=0 , min;
+    int a[3], max, mid=0 , min; //เรียงเลข 3 ตัว
     scanf("%d %d %d", &a[0], &a[1], &a[2]);
     max = a[0];
     min = a[0];
