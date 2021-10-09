@@ -3,6 +3,7 @@ int main()
 {
     int num;
     float x[10000], result=0 ;
+    printf("Enter number : ");
     scanf("%d" , &num);
     for(int i = 0 ; i <= 10000 ; i++)
     {
@@ -10,6 +11,6 @@ int main()
         x[i+1] = (x[i] + num / x[i])/2 ; 
         result = x[10000];
     }
-    printf("%f",result);
+    printf("Result = %f",result);
     return 0;
 }
