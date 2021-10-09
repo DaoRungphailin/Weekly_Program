@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //*position odd &even
 int main()
 {
     int n[10],even=0,odd=0;

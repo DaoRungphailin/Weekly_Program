@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //*copy data
 int main()
 {
     FILE *fp ;

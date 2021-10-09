@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //*position odd & even
 int check_even(int x)
 {
     return x%2==0; //check bool

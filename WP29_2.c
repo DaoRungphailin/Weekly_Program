@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //*average high
 int main()
 {
     int h ;
